@@ -12,4 +12,4 @@ Git tracks changes
 
 Git tracks changes of files.
 
-Creat a new branch in quick.
+Creat a new branch in quick.?
