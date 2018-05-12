@@ -13,3 +13,5 @@ Git tracks changes
 Git tracks changes of files.
 
 Creat a new branch is quick and simple.
+
+修改了一下readme文件
