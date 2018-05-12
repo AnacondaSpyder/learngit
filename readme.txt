@@ -12,4 +12,4 @@ Git tracks changes
 
 Git tracks changes of files.
 
-Creat a new branch is quick & simple.
+Creat a new branch is quick and simple.
