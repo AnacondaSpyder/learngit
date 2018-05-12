@@ -7,3 +7,7 @@ Git is amazing!
 Git>>?
 
 加上一行内容
+
+Git tracks changes
+
+Git tracks changes of files.
