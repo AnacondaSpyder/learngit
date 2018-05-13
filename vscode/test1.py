@@ -1,0 +1,2 @@
+name = 'china'
+print(name)
